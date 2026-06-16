@@ -1,0 +1,23 @@
+[
+     {
+          "pro_id": "001",
+          "pro_name": "Masala-Chicken",
+          "category": "masala item",
+          "price": "rs-10",
+          "stock": "56 stocks"
+     },
+     {
+          "pro_id": "002",
+          "pro_name": "Masala-meat",
+          "category": "masala item",
+          "price": "rs-10",
+          "stock": "20 stocks"
+     },
+     {
+          "pro_id": "003",
+          "pro_name": "hamam soap",
+          "category": "soap",
+          "price": "rs-38",
+          "stock": "13"
+     }
+]
